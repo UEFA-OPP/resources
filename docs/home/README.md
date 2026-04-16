@@ -32,14 +32,15 @@ Java Object-Oriented Programming хичээлийн бүх материал нэ
 | Долоо хоног | Сэдэв | Материал |
 |---|---|---|
 | 6 | Encapsulation | [week-06-encapsulation](../week-06-encapsulation/) ✅ |
-| 7 | Constructor | *(coming soon)* |
+| 7 | Constructor | [week-07-constructor](../week-07-constructor/) ✅ |
 | 8 | Midterm | — |
-| 9 | Inheritance | *(coming soon)* |
-| 10 | Polymorphism | *(coming soon)* |
-| 11 | Abstraction | *(coming soon)* |
-| 12 | Exception Handling | *(coming soon)* |
-| 13 | Collections | *(coming soon)* |
-| 14 | File I/O | *(coming soon)* |
+| 9 | Inheritance | [week-09-inheritance](../week-09-inheritance/) ✅ |
+| 10 | Polymorphism | [week-10-polymorphism](../week-10-polymorphism/) ✅ |
+| 11 | Abstraction | [week-11-abstraction](../week-11-abstraction/) ✅ |
+| 12 | Exception Handling | [week-12-exceptions](../week-12-exceptions/) ✅ |
+| 13 | Collections | [week-13-collections](../week-13-collections/) ✅ |
+| 14 | File I/O | [week-14-file-io](../week-14-file-io/) ✅ |
+| 15+ | 🎴 Бие даалт — Card Battle Game | [assignment-card-battle](../assignment-card-battle/) |
 
 ---
 

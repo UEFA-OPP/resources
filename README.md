@@ -30,16 +30,17 @@
 | 4 | Array + Loop | ⏳ | — |
 | 5 | Class & Object | ⏳ | — |
 | **6** | **Encapsulation** | 🟢 [lab6-encapsulation](../../../lab6-encapsulation) | [week-06](docs/week-06-encapsulation/) |
-| **7** | **Constructor** | 🟢 lab7-constructor | — |
+| **7** | **Constructor** | 🟢 [lab7-constructor](../../../lab7-constructor) | [week-07](docs/week-07-constructor/) |
 | 8 | Midterm | — | — |
-| **9** | **Inheritance** | 🟢 lab9-inheritance | — |
-| **10** | **Polymorphism** | 🟢 lab10-polymorphism | — |
-| **11** | **Abstraction** | 🟢 lab11-abstraction | — |
-| **12** | **Exception Handling** | 🟢 lab12-exceptions | — |
-| **13** | **Collections** | 🟢 lab13-collections | — |
-| **14** | **File I/O** | 🟢 lab14-file-io | — |
+| **9** | **Inheritance** | 🟢 [lab9-inheritance](../../../lab9-inheritance) | [week-09](docs/week-09-inheritance/) |
+| **10** | **Polymorphism** | 🟢 [lab10-polymorphism](../../../lab10-polymorphism) | [week-10](docs/week-10-polymorphism/) |
+| **11** | **Abstraction** | 🟢 [lab11-abstraction](../../../lab11-abstraction) | [week-11](docs/week-11-abstraction/) |
+| **12** | **Exception Handling** | 🟢 [lab12-exceptions](../../../lab12-exceptions) | [week-12](docs/week-12-exceptions/) |
+| **13** | **Collections** | 🟢 [lab13-collections](../../../lab13-collections) | [week-13](docs/week-13-collections/) |
+| **14** | **File I/O** | 🟢 [lab14-file-io](../../../lab14-file-io) | [week-14](docs/week-14-file-io/) |
+| **15+** | **Бие даалт — Card Battle Game** | 🎴 [assignment-card-battle](../../../assignment-card-battle) | — |
 
-🟢 = GitHub-д хийгдэх "Dungeon of OOP" story arc-ийн Lab
+🟢 = GitHub-д хийгдэх "Dungeon of OOP" story arc-ийн Lab | 🎴 = Бие даалт (UI/UX + OOP)
 
 ---
 
